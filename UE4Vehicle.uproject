@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{4836D96A-4401-887C-E0CA-40B59FF3CDA7}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "UE4Vehicle",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "PhysXVehicles",
+			"Enabled": true
+		},
+		{
+			"Name": "RawInput",
+			"Enabled": true
+		}
+	]
+}
